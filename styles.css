@@ -29,7 +29,7 @@
   height: calc(100vh - 75px);
   flex: none;
   display: flex;
-  align-items: center;
+  align-items: stretch;
   justify-content: center;
 }
 
